@@ -21,3 +21,7 @@ Steps to complete project:
 - Test Functionality
 
 My greatest challenge was establishing consistent connectivtiy. I ended up coding many try and catch statements and continously making my error handling more robust until I had very specific information on what was going wrong. This lead me to discover that my connectivity with MongoDB was working, but my connectivity with the host was not. I plan to configure my local system so I am continue the development of this project, at which point I will push my updates to this repo.
+
+- Included are screenshots of the empty dashboard as well as the connection error
+  ![image](https://github.com/user-attachments/assets/70fe02eb-c872-4ece-8730-25b3c9f9e6dd)
+  ![image](https://github.com/user-attachments/assets/e4db5f85-9ceb-4c5d-b0aa-8cae5fd064cc)
